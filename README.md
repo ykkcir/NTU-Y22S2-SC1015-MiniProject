@@ -1,4 +1,5 @@
-# SC1015: Data Science Mini Project - Predicting the Nasdaq100: A Comparative Analysis using ARIMA and LSTM Models
+#### SC1015: Data Science Mini Project
+# Predicting the Nasdaq100: A Comparative Analysis using ARIMA and LSTM Models
 
 
 Lab Group: `C126`
